@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/grafKomsulukMatrisler/cmake-build-debug/CMakeFiles/grafKomsulukMatrisler.dir
+C:/Users/yossu/CLionProjects/grafKomsulukMatrisler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/grafKomsulukMatrisler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

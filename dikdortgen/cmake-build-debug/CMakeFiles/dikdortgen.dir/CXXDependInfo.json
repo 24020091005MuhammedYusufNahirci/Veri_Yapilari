@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/yossu/CLionProjects/dikdortgen/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/yossu/CLionProjects/dikdortgen",
+	"dir-top-bld" : "C:/Users/yossu/CLionProjects/dikdortgen/cmake-build-debug",
+	"dir-top-src" : "C:/Users/yossu/CLionProjects/dikdortgen",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/yossu/CLionProjects/dikdortgen/cmake-build-debug/CMakeFiles/dikdortgen.dir",
+	"sources" : 
+	{
+		"CMakeFiles/dikdortgen.dir/dikdortgen.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/yossu/CLionProjects/dikdortgen/dikdortgen.cpp"
+		},
+		"CMakeFiles/dikdortgen.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/yossu/CLionProjects/dikdortgen/main.cpp"
+		}
+	}
+}
