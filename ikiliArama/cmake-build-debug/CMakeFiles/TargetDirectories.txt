@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/ikiliArama/cmake-build-debug/CMakeFiles/ikiliArama.dir
+C:/Users/yossu/CLionProjects/ikiliArama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/ikiliArama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
