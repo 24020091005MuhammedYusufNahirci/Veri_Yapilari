@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/BinaryTreeEnbuyukveKucukBulma/cmake-build-debug/CMakeFiles/BinaryTreeEnbuyukveKucukBulma.dir
+C:/Users/yossu/CLionProjects/BinaryTreeEnbuyukveKucukBulma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/BinaryTreeEnbuyukveKucukBulma/cmake-build-debug/CMakeFiles/rebuild_cache.dir

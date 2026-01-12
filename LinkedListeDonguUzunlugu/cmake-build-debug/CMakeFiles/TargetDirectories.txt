@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/LinkedListeDonguUzunlugu/cmake-build-debug/CMakeFiles/LinkedListeDonguUzunlugu.dir
+C:/Users/yossu/CLionProjects/LinkedListeDonguUzunlugu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/LinkedListeDonguUzunlugu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
