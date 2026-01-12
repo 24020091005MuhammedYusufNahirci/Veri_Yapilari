@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/GrafkruskalMinimumAgaci_MST/cmake-build-debug/CMakeFiles/GrafkruskalMinimumAgaci_MST.dir
+C:/Users/yossu/CLionProjects/GrafkruskalMinimumAgaci_MST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/GrafkruskalMinimumAgaci_MST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
