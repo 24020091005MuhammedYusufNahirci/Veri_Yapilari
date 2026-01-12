@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/GrefYonluKlonlama/cmake-build-debug/CMakeFiles/GrefYonluKlonlama.dir
+C:/Users/yossu/CLionProjects/GrefYonluKlonlama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/GrefYonluKlonlama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
