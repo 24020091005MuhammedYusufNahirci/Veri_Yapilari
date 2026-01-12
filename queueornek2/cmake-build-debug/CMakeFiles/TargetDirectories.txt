@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/queueornek2/cmake-build-debug/CMakeFiles/queueornek2.dir
+C:/Users/yossu/CLionProjects/queueornek2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/queueornek2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
