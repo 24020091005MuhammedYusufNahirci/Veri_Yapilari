@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/yossu/CLionProjects/KismiToplamlar/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/yossu/CLionProjects/KismiToplamlar",
+	"dir-top-bld" : "C:/Users/yossu/CLionProjects/KismiToplamlar/cmake-build-debug",
+	"dir-top-src" : "C:/Users/yossu/CLionProjects/KismiToplamlar",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/yossu/CLionProjects/KismiToplamlar/cmake-build-debug/CMakeFiles/KismiToplamlar.dir",
+	"sources" : 
+	{
+		"CMakeFiles/KismiToplamlar.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/yossu/CLionProjects/KismiToplamlar/main.cpp"
+		}
+	}
+}

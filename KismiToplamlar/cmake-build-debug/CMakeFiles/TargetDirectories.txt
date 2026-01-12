@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/KismiToplamlar/cmake-build-debug/CMakeFiles/KismiToplamlar.dir
+C:/Users/yossu/CLionProjects/KismiToplamlar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/KismiToplamlar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
