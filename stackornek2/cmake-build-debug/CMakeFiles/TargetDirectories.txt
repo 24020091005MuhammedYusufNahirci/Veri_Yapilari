@@ -1,0 +1,3 @@
+C:/Users/yossu/CLionProjects/stackornek2/cmake-build-debug/CMakeFiles/stackornek2.dir
+C:/Users/yossu/CLionProjects/stackornek2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yossu/CLionProjects/stackornek2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
